@@ -47,7 +47,7 @@ cursor:pointer;
 background-color:#3399FF;
 }
 
-.option:hover{
+.option:active{
 border:#FC0 solid 3px;
 color:#FC0;
 }
