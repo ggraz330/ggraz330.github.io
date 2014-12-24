@@ -1,0 +1,23 @@
+{"quizlist":[
+  
+	{
+	"question":"What does NFC stand for?",
+	"option1":"Near Field Communications",
+	"option2":"Near Field Connect",
+	"option3":"National Football Conference"
+	},
+	{
+	"question":"The NFC chip uses ___ technology?",
+	"option1":"RF",
+	"option2":"Bluetooth",
+	"option3":"WiFi"
+	},
+	{
+	"question":"The letter 'M' in STEM stands for? ",
+	"option1":"Mathematics",
+	"option2":"Multimedia",
+	"option3":"Money"
+	}
+
+]
+}
